@@ -1,0 +1,8 @@
+{
+  "admins": [
+    { "user-id": "7CD80D9942C27024", "ItzGame": "ItzGame" }
+  ],
+  "super-admins": [],
+  "owners": ["7CD80D9942C27024"],
+  "motd": "Welcome!"
+}
